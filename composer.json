@@ -1,5 +1,5 @@
 {
-    "name": "alpha/joke",
+    "name": "adalessa/joke",
     "description": "Returns a programming joke",
     "type": "library",
     "require": {
